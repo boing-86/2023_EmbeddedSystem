@@ -10,7 +10,7 @@
 - design source files : coregen, ise, src, sw
 
 ### Presentation Video
-[구글드라이브](https://drive.google.com/file/d/1BBHZBpxfX8n8-8IMVxRhmtkaBpth00gR/view?usp=sharing)
+[영상 링크](https://drive.google.com/file/d/1BBHZBpxfX8n8-8IMVxRhmtkaBpth00gR/view?usp=sharing)
 
 ### Presentation Material
 ![슬라이드1](https://github.com/boing-86/PL_Lab/assets/54930076/0ef1e0fd-b991-41c0-80fe-3a93a6bfd377)
