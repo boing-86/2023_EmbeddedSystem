@@ -1,0 +1,20 @@
+# Date: Mon Jun 19 14:55:51 2023
+SET flowvendor = Other
+SET vhdlsim = False
+SET verilogsim = True
+SET workingdirectory = C:\multmatrix\coregen\tmp
+SET speedgrade = -5
+SET simulationfiles = Behavioral
+SET asysymbol = False
+SET addpads = False
+SET device = xc2v8000
+SET implementationfiletype = Edif
+SET busformat = BusFormatAngleBracketNotRipped
+SET foundationsym = False
+SET package = ff1152
+SET createndf = False
+SET designentry = Verilog
+SET devicefamily = virtex2
+SET formalverification = False
+SET removerpms = False
+
